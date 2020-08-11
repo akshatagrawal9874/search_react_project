@@ -12,3 +12,7 @@
   grid-column-gap: 20px;
   background: linear-gradient(0deg,#FFCCCC,#CCFFFF);
 }
+.container:hover{
+    cursor: pointer;
+    transform: scale(1.03);
+}
